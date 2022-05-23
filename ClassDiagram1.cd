@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_3E_ProyectoFinal_NeshoPablo.Clases.Paciente">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAQAEgAAAgAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Clases\Paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3E_ProyectoFinal_NeshoPablo.Clases.AgendaCitas">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAEAgAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\AgendaCitas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3E_ProyectoFinal_NeshoPablo.Clases.Sintomas">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Sintomas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3E_ProyectoFinal_NeshoPablo.Clases.HistorialPaciente">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAYAABAAAAABABAgCAAABQAAAAAAAAQAAAAAMAAAAA=</HashCode>
+      <FileName>Clases\HistorialPaciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3E_ProyectoFinal_NeshoPablo.Clases.Medicamentos">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAACAAAADAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Medicamentos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
